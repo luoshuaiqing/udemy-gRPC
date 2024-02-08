@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "q5bkA7TkQEqi2Ljh3IL0K3YUJonunyjH0gX2E9A5AFQ+4wO9wmgldcC0vzkc7AIGZbJvsWyBCZM0S3Aki+3gKQ==",
+  "success": true,
+  "projectFilePath": "/Users/shuaiqingluo/Dev/udemy-gRPC/groomadmin/groomadmin.csproj",
+  "expectedPackageFiles": [
+    "/Users/shuaiqingluo/.nuget/packages/google.protobuf/3.21.5/google.protobuf.3.21.5.nupkg.sha512",
+    "/Users/shuaiqingluo/.nuget/packages/grpc.core.api/2.47.0/grpc.core.api.2.47.0.nupkg.sha512",
+    "/Users/shuaiqingluo/.nuget/packages/grpc.net.client/2.47.0/grpc.net.client.2.47.0.nupkg.sha512",
+    "/Users/shuaiqingluo/.nuget/packages/grpc.net.common/2.47.0/grpc.net.common.2.47.0.nupkg.sha512",
+    "/Users/shuaiqingluo/.nuget/packages/grpc.tools/2.47.0/grpc.tools.2.47.0.nupkg.sha512",
+    "/Users/shuaiqingluo/.nuget/packages/microsoft.extensions.logging.abstractions/3.0.3/microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "/Users/shuaiqingluo/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/shuaiqingluo/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/shuaiqingluo/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/shuaiqingluo/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.26/microsoft.netcore.app.host.osx-arm64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

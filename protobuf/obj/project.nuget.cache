@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "86TobdPmKQi16f7b+RE2cf0mXTRejBf7r7S3H8jqNJ+R6a8Tr1Vxz8+A8vQ91H63LbMjzxnDQR8Yv+AUzc9A6Q==",
+  "success": true,
+  "projectFilePath": "/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/protobuf.csproj",
+  "expectedPackageFiles": [
+    "/Users/shuaiqingluo/.nuget/packages/google.protobuf/3.25.2/google.protobuf.3.25.2.nupkg.sha512",
+    "/Users/shuaiqingluo/.nuget/packages/grpc.tools/2.61.0/grpc.tools.2.61.0.nupkg.sha512"
+  ],
+  "logs": []
+}

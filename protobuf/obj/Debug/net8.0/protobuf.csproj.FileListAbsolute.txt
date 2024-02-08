@@ -1,0 +1,17 @@
+/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/bin/Debug/net8.0/protobuf
+/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/bin/Debug/net8.0/protobuf.deps.json
+/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/bin/Debug/net8.0/protobuf.runtimeconfig.json
+/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/bin/Debug/net8.0/protobuf.dll
+/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/bin/Debug/net8.0/protobuf.pdb
+/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/bin/Debug/net8.0/Google.Protobuf.dll
+/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/obj/Debug/net8.0/protobuf.csproj.AssemblyReference.cache
+/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/obj/Debug/net8.0/protobuf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/obj/Debug/net8.0/protobuf.AssemblyInfoInputs.cache
+/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/obj/Debug/net8.0/protobuf.AssemblyInfo.cs
+/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/obj/Debug/net8.0/protobuf.csproj.CoreCompileInputs.cache
+/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/obj/Debug/net8.0/protobuf.csproj.CopyComplete
+/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/obj/Debug/net8.0/protobuf.dll
+/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/obj/Debug/net8.0/refint/protobuf.dll
+/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/obj/Debug/net8.0/protobuf.pdb
+/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/obj/Debug/net8.0/protobuf.genruntimeconfig.cache
+/Users/shuaiqingluo/Dev/udemy-gRPC/protobuf/obj/Debug/net8.0/ref/protobuf.dll
