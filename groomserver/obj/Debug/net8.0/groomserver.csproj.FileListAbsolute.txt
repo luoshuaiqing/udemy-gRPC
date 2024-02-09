@@ -32,3 +32,4 @@
 /Users/shuaiqingluo/Dev/udemy-gRPC/groomserver/obj/Debug/net8.0/groomserver.pdb
 /Users/shuaiqingluo/Dev/udemy-gRPC/groomserver/obj/Debug/net8.0/groomserver.genruntimeconfig.cache
 /Users/shuaiqingluo/Dev/udemy-gRPC/groomserver/obj/Debug/net8.0/ref/groomserver.dll
+/Users/shuaiqingluo/Dev/udemy-gRPC/groomserver/obj/Debug/net8.0/groomserver.sourcelink.json
